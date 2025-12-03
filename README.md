@@ -12,12 +12,9 @@
   <strong>Full-Stack Developer | MERN Specialist | Junior Software Enginner</strong>
 </p>
 
-<!--
-**rasibul01/rasibul01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 **Currently working on:** Zap-Shift (MERN Stack)
 - 🌱 **Currently learning:** Recat.js, JavaScript
-- 👨‍💻 **Portfolio:** ...www.netlify.com
+- 👨‍💻 **Portfolio:** ...
 - 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript
 - 📫 **How to reach me:** rasibulhasan123@gmail.com
 - ⚡ **Fun fact:** I love turning complex problems into simple, beautiful solutions
@@ -29,8 +26,8 @@
 
 <!-- GitHub Stats Cards -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifmia&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifmia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasibul01&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rasibul01&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
