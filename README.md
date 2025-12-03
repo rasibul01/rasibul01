@@ -88,3 +88,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+
+## 👁 Profile Views
+<img src="https://komarev.com/ghpvc/?username=alifmia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+## 📈 Weekly Development Breakdown
+
+```text
+JavaScript    ████████████████████░░░░   85% 
+React         █████████████████████░░░   90%
+Node.js       ██████████████████░░░░░░   80%
+MongoDB       ████████████████░░░░░░░░   75%
+CSS/Tailwind  █████████████████████░░░   90%
+Python        ██████████░░░░░░░░░░░░░░   50%
